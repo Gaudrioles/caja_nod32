@@ -1,0 +1,15 @@
+# CodeBlocks Files
+*.depend
+*.layout
+bin/
+obj/
+
+# VSCode Files
+.vs/
+.vscode/
+x64/
+x86/
+
+# GCC Files
+.o
+.so
