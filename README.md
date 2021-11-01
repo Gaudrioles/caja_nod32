@@ -2,4 +2,4 @@
 
 build dependencies :
 
-    Ubuntu : sudo apt-get install libcaja-extension-dev
+    Ubuntu : sudo apt-get install libcaja-extension-dev libglib2.0-dev
